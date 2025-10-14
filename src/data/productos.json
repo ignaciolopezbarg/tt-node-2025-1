@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "product": "TV 50\"",
+    "description": "Smart TV 50 pulgadas 4K UHD con HDR y conectividad WiFi.",
+    "price": 150000,
+    "stock": 25,
+    "img": "https://example.com/tv50.jpg",
+    "category": "Electrónica"
+  }
+]
