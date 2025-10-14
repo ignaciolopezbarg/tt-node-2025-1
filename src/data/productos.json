@@ -7,5 +7,23 @@
     "stock": 25,
     "img": "https://example.com/tv50.jpg",
     "category": "Electrónica"
+  },
+  {
+    "id": "2",
+    "product": "TV 65",
+    "description": "Smart TV 65 pulgadas 4K UHD con HDR y conectividad WiFi.",
+    "price": 250000,
+    "stock": 5,
+    "img": "https://example.com/tv65.jpg",
+    "category": "Electrónica"
+  },
+  {
+    "id": "3",
+    "product": "DVD 3x",
+    "description": "DVD con divx.",
+    "price": 150000,
+    "stock": 30,
+    "img": "https://example.com/dvd.jpg",
+    "category": "Audio"
   }
 ]
