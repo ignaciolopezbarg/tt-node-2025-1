@@ -17,5 +17,9 @@
 
 #### Consultas
 #### [GET Trae todos los productos](https://localhost:3000/productos)   
-#### [GET Trae el producto por su Id](https:localhost:3000/productos/:id)
+#### [GET Trae el producto por su Id](https://localhost:3000/productos/:id)
+#### [POST Cargar nuevos productos, con body, row, json](https://localhost:3000/productos)
+#### [PUT Modificar campo por Id del producto](https://localhost:3000/productos/:id)
+#### [DELETE Eliminar producto por Id](https://localhost:3000/productos/:id)
 
+##### No hay vistas en este proyecto en paginas HTML, ni con React, Handlebars,etc, solo esta estructura del back end.
